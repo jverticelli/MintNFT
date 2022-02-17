@@ -10,12 +10,7 @@ BSC Testnet 0x88624DD1c725C6A95E223170fa99ddB22E1C6DDD
 */
 
 const web3 = new Web3(window.ethereum);
-const pippo = "Pippo";
-<<<<<<< HEAD
-const pippo2 = "Pippo2";
-=======
-const simone = "simone";
->>>>>>> 57f73b5a07b3fb3aca1d2c1a56febe7a8fe2e0f4
+
 //frontend logic
 
 async function login(){
